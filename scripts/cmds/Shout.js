@@ -52,7 +52,8 @@ const yellList = `__**YELL COMMANDS**__
 12. Have a look
 13. Silence
 14. Satorha or Satora
-15. Welcome`
+15. Welcome
+16. No That's Wrong`
 
 // This is sort of disgusting, BUT it could be way worse                                            because it was :(
 urlMap.set("objection", "https://i.gyazo.com/9fc7da3d319a4d3d963db5601c22a15a.gif")
@@ -71,4 +72,5 @@ urlMap.set("objection", "https://i.gyazo.com/9fc7da3d319a4d3d963db5601c22a15a.gi
     .set("silence", "https://i.gyazo.com/082a4af57a778d491fd51ad9d1e3ac8f.png")
     .set("satorha", "https://i.gyazo.com/ddb5b98a78eefcbd44fd78590638a8ee.png")
     .set("satora", urlMap.get("satorha"))
-    .set("welcome", "https://i.gyazo.com/81233f5fb253f4af969270b634f42ffa.png");
+    .set("welcome", "https://i.gyazo.com/81233f5fb253f4af969270b634f42ffa.png")
+    .set("no that's wrong", "https://i.ibb.co/bNZxxxS/wrong.jpg");
